@@ -1,0 +1,38 @@
+body{background-color: teal;}
+p {
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+  }
+  div {
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+    height:200px;
+    width:50%;
+    border:double;
+  }  
+  h2{
+      border: 4px solid black;
+  }
+  input[type=text]{
+      border: 2px solid skyblue;
+      border-radius: 4px;
+  }
+  input[type=number]{
+      border: 2px solid skyblue;
+      border-radius: 4px;
+  }
+  input[type=email]{
+    border: 2px solid skyblue;
+    border-radius: 4px;
+}
+input[type=submit]{
+    border: 2px solid skyblue;
+    border-radius: 4px;
+}
+
+
+
